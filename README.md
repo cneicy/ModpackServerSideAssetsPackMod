@@ -1,4 +1,4 @@
-# ModpackServerSideLanguageFix
+# ModpackServerSideLanguageFix Support:1.12.2
 修复服务端传输国际化文本到客户端接收到的是raw的langkey的解决方案。
 
 （翻译：在服务器的玩家会直接收到一条原始的langkey,而不是langkey的消息。）
