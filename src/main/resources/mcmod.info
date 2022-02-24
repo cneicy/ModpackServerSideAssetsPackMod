@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modpackserversidelanguagefix",
+  "name": "Modpack ServerSide LanguageFix",
+  "description": "Just a simple fix.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://crash.work",
+  "updateUrl": "",
+  "authorList": ["CN_Eicy"],
+  "credits": "Oops!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
